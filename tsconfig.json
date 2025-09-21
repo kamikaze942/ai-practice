@@ -3,6 +3,7 @@
         "target": "es2022",
         "module": "commonjs",
         "rootDir": "src",
+        "lib": ["esnext", "dom"],
         "outDir": "dist",
         "strict": true,
         "esModuleInterop": true,

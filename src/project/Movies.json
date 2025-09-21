@@ -1,0 +1,1986 @@
+[
+  {
+    "title": "The Godfather",
+    "description": "Crime/Drama, 1972. The aging patriarch of an organized crime dynasty transfers control to his reluctant son. Starring Marlon Brando and Al Pacino."
+  },
+  {
+    "title": "Pulp Fiction",
+    "description": "Crime/Drama, 1994. Interwoven stories of crime and redemption in Los Angeles. Starring John Travolta and Uma Thurman."
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "description": "Drama, 1994. A banker imprisoned for a crime he didn’t commit befriends another inmate and plots his escape. Starring Tim Robbins and Morgan Freeman."
+  },
+  {
+    "title": "Inception",
+    "description": "Science Fiction/Thriller, 2010. A thief enters people’s dreams to steal secrets and plant ideas. Starring Leonardo DiCaprio."
+  },
+  {
+    "title": "Forrest Gump",
+    "description": "Drama/Romance, 1994. The life story of a simple man with extraordinary experiences. Starring Tom Hanks."
+  },
+  {
+    "title": "The Dark Knight",
+    "description": "Action/Crime, 2008. Batman faces the Joker, a criminal mastermind sowing chaos in Gotham. Starring Christian Bale and Heath Ledger."
+  },
+  {
+    "title": "Titanic",
+    "description": "Romance/Drama, 1997. A love story unfolds aboard the ill-fated RMS Titanic. Starring Leonardo DiCaprio and Kate Winslet."
+  },
+  {
+    "title": "The Matrix",
+    "description": "Science Fiction/Action, 1999. A hacker discovers the reality he knows is a computer simulation. Starring Keanu Reeves."
+  },
+  {
+    "title": "Casablanca",
+    "description": "Romance/Drama, 1942. A nightclub owner in Casablanca struggles with love and sacrifice during WWII. Starring Humphrey Bogart and Ingrid Bergman."
+  },
+  {
+    "title": "Gladiator",
+    "description": "Action/Drama, 2000. A betrayed Roman general seeks revenge against the corrupt emperor. Starring Russell Crowe."
+  },
+  {
+    "title": "Schindler’s List",
+    "description": "Historical/Drama, 1993. The true story of a man who saved Jews during the Holocaust. Starring Liam Neeson."
+  },
+  {
+    "title": "Fight Club",
+    "description": "Drama, 1999. An office worker and a soap maker form an underground fight club. Starring Edward Norton and Brad Pitt."
+  },
+  {
+    "title": "Goodfellas",
+    "description": "Crime/Drama, 1990. The rise and fall of a mob associate in New York. Starring Ray Liotta and Robert De Niro."
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "description": "Thriller/Crime, 1991. An FBI trainee seeks help from a cannibalistic killer to catch another murderer. Starring Jodie Foster and Anthony Hopkins."
+  },
+  {
+    "title": "Jurassic Park",
+    "description": "Science Fiction/Adventure, 1993. Dinosaurs are brought back to life in a theme park that spirals out of control. Starring Sam Neill and Laura Dern."
+  },
+  {
+    "title": "Saving Private Ryan",
+    "description": "War/Drama, 1998. U.S. soldiers embark on a mission to save a paratrooper during WWII. Starring Tom Hanks and Matt Damon."
+  },
+  {
+    "title": "Avatar",
+    "description": "Science Fiction/Adventure, 2009. A paraplegic Marine on an alien planet is torn between duty and his new home. Starring Sam Worthington and Zoe Saldana."
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "description": "Fantasy/Adventure, 2001. A hobbit embarks on a quest to destroy a powerful ring. Starring Elijah Wood and Ian McKellen."
+  },
+  {
+    "title": "The Lord of the Rings: The Two Towers",
+    "description": "Fantasy/Adventure, 2002. The fellowship splits as battles rage across Middle-earth. Starring Elijah Wood and Viggo Mortensen."
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "description": "Fantasy/Adventure, 2003. The final battle for Middle-earth and the destruction of the One Ring. Starring Elijah Wood and Viggo Mortensen."
+  },
+  {
+    "title": "Star Wars: A New Hope",
+    "description": "Science Fiction/Adventure, 1977. A farm boy joins the fight against an evil empire. Starring Mark Hamill and Harrison Ford."
+  },
+  {
+    "title": "Star Wars: The Empire Strikes Back",
+    "description": "Science Fiction/Adventure, 1980. The rebels face setbacks as Luke learns from Yoda. Starring Mark Hamill and Carrie Fisher."
+  },
+  {
+    "title": "Star Wars: Return of the Jedi",
+    "description": "Science Fiction/Adventure, 1983. Luke confronts Darth Vader and the Emperor. Starring Mark Hamill and Harrison Ford."
+  },
+  {
+    "title": "Back to the Future",
+    "description": "Science Fiction/Adventure, 1985. A teen travels back in time and alters history. Starring Michael J. Fox."
+  },
+  {
+    "title": "Back to the Future Part II",
+    "description": "Science Fiction/Adventure, 1989. Marty and Doc travel to the future and back to prevent disaster. Starring Michael J. Fox and Christopher Lloyd."
+  },
+  {
+    "title": "Back to the Future Part III",
+    "description": "Science Fiction/Adventure, 1990. Marty travels to the Old West to save Doc. Starring Michael J. Fox and Christopher Lloyd."
+  },
+  {
+    "title": "The Avengers",
+    "description": "Superhero/Action, 2012. Earth’s mightiest heroes team up to stop Loki and his army. Starring Robert Downey Jr. and Chris Evans."
+  },
+  {
+    "title": "Avengers: Infinity War",
+    "description": "Superhero/Action, 2018. The Avengers face Thanos in a desperate attempt to stop him. Starring Robert Downey Jr. and Chris Hemsworth."
+  },
+  {
+    "title": "Avengers: Endgame",
+    "description": "Superhero/Action, 2019. The Avengers attempt to reverse the snap and defeat Thanos. Starring Robert Downey Jr. and Chris Evans."
+  },
+  {
+    "title": "Black Panther",
+    "description": "Superhero/Action, 2018. T’Challa becomes king of Wakanda and faces a rival for the throne. Starring Chadwick Boseman."
+  },
+  {
+    "title": "Iron Man",
+    "description": "Superhero/Action, 2008. A billionaire builds a high-tech suit to fight evil. Starring Robert Downey Jr."
+  },
+  {
+    "title": "Captain America: The First Avenger",
+    "description": "Superhero/Action, 2011. Steve Rogers becomes Captain America to fight Hydra in WWII. Starring Chris Evans."
+  },
+  {
+    "title": "Thor",
+    "description": "Superhero/Action, 2011. The Norse god of thunder is banished to Earth. Starring Chris Hemsworth."
+  },
+  {
+    "title": "Doctor Strange",
+    "description": "Superhero/Fantasy, 2016. A surgeon learns mystical arts after a tragic accident. Starring Benedict Cumberbatch."
+  },
+  {
+    "title": "Spider-Man: Homecoming",
+    "description": "Superhero/Action, 2017. Peter Parker balances high school life with being Spider-Man. Starring Tom Holland."
+  },
+  {
+    "title": "Guardians of the Galaxy",
+    "description": "Superhero/Adventure, 2014. A group of misfits band together to save the galaxy. Starring Chris Pratt and Zoe Saldana."
+  },
+  {
+    "title": "Guardians of the Galaxy Vol. 2",
+    "description": "Superhero/Adventure, 2017. The guardians explore family bonds and face new threats. Starring Chris Pratt."
+  },
+  {
+    "title": "Captain Marvel",
+    "description": "Superhero/Action, 2019. Carol Danvers becomes one of the galaxy’s most powerful heroes. Starring Brie Larson."
+  },
+  {
+    "title": "Wonder Woman",
+    "description": "Superhero/Fantasy, 2017. An Amazonian warrior joins WWI to fight Ares. Starring Gal Gadot."
+  },
+  {
+    "title": "Man of Steel",
+    "description": "Superhero/Action, 2013. Superman struggles with his identity and destiny. Starring Henry Cavill."
+  },
+  {
+    "title": "The Batman",
+    "description": "Superhero/Crime, 2022. A young Batman investigates a series of murders by the Riddler. Starring Robert Pattinson."
+  },
+  {
+    "title": "Joker",
+    "description": "Drama/Thriller, 2019. A failed comedian descends into madness and becomes the Joker. Starring Joaquin Phoenix."
+  },
+  {
+    "title": "Deadpool",
+    "description": "Superhero/Comedy, 2016. A mercenary gains healing powers and seeks revenge. Starring Ryan Reynolds."
+  },
+  {
+    "title": "Logan",
+    "description": "Superhero/Drama, 2017. An aging Wolverine protects a young mutant in a bleak future. Starring Hugh Jackman."
+  },
+  {
+    "title": "The Lion King",
+    "description": "Animation/Adventure, 1994. A young lion prince flees after tragedy but returns to claim his throne. Voices of Matthew Broderick and James Earl Jones."
+  },
+  {
+    "title": "Frozen",
+    "description": "Animation/Fantasy, 2013. A princess with ice powers accidentally traps her kingdom in eternal winter. Voices of Idina Menzel and Kristen Bell."
+  },
+  {
+    "title": "Toy Story",
+    "description": "Animation/Adventure, 1995. Toys come to life when humans aren’t around. Voices of Tom Hanks and Tim Allen."
+  },
+  {
+    "title": "Toy Story 3",
+    "description": "Animation/Adventure, 2010. Andy’s toys face their uncertain future as he heads to college. Voices of Tom Hanks and Tim Allen."
+  },
+  {
+    "title": "Finding Nemo",
+    "description": "Animation/Adventure, 2003. A clownfish searches the ocean for his lost son. Voices of Albert Brooks and Ellen DeGeneres."
+  },
+  {
+    "title": "Inside Out",
+    "description": "Animation/Comedy, 2015. The emotions inside a young girl’s mind struggle with change. Voices of Amy Poehler and Phyllis Smith."
+  },
+  {
+    "title": "Shrek",
+    "description": "Animation/Comedy, 2001. An ogre goes on a quest to rescue a princess. Voices of Mike Myers and Eddie Murphy."
+  },
+  {
+    "title": "Shrek 2",
+    "description": "Animation/Comedy, 2004. Shrek and Fiona visit her parents, but tensions rise when the Fairy Godmother interferes. Voices of Mike Myers, Cameron Diaz, and Eddie Murphy."
+  },
+  {
+    "title": "Shrek the Third",
+    "description": "Animation/Comedy, 2007. Shrek must find a new heir to the throne while dealing with impending fatherhood. Voices of Mike Myers and Justin Timberlake."
+  },
+  {
+    "title": "Shrek Forever After",
+    "description": "Animation/Comedy, 2010. Shrek signs a deal with Rumpelstiltskin that alters reality. Voices of Mike Myers and Eddie Murphy."
+  },
+  {
+    "title": "Monsters, Inc.",
+    "description": "Animation/Comedy, 2001. Monsters generate power by scaring children, but one child changes everything. Voices of Billy Crystal and John Goodman."
+  },
+  {
+    "title": "Monsters University",
+    "description": "Animation/Comedy, 2013. A prequel showing how Mike and Sulley became friends. Voices of Billy Crystal and John Goodman."
+  },
+  {
+    "title": "Up",
+    "description": "Animation/Adventure, 2009. An old man attaches balloons to his house and sets off on an adventure. Voices of Edward Asner and Jordan Nagai."
+  },
+  {
+    "title": "Coco",
+    "description": "Animation/Fantasy, 2017. A boy journeys into the Land of the Dead to uncover his family's history. Voices of Anthony Gonzalez and Gael García Bernal."
+  },
+  {
+    "title": "Zootopia",
+    "description": "Animation/Adventure, 2016. A bunny cop and a sly fox uncover a conspiracy in a city of animals. Voices of Ginnifer Goodwin and Jason Bateman."
+  },
+  {
+    "title": "Moana",
+    "description": "Animation/Adventure, 2016. A young girl sets sail to save her island with the help of demigod Maui. Voices of Auli'i Cravalho and Dwayne Johnson."
+  },
+  {
+    "title": "Mulan",
+    "description": "Animation/Adventure, 1998. A young woman disguises herself as a man to take her father’s place in the army. Voices of Ming-Na Wen and Eddie Murphy."
+  },
+  {
+    "title": "Aladdin",
+    "description": "Animation/Fantasy, 1992. A street urchin finds a magical lamp and falls in love with a princess. Voices of Scott Weinger and Robin Williams."
+  },
+  {
+    "title": "Beauty and the Beast",
+    "description": "Animation/Fantasy, 1991. A young woman falls in love with a cursed prince. Voices of Paige O’Hara and Robby Benson."
+  },
+  {
+    "title": "The Little Mermaid",
+    "description": "Animation/Fantasy, 1989. A mermaid princess makes a deal to become human. Voices of Jodi Benson and Samuel E. Wright."
+  },
+  {
+    "title": "Frozen II",
+    "description": "Animation/Fantasy, 2019. Elsa and Anna uncover the truth about their kingdom's past. Voices of Idina Menzel and Kristen Bell."
+  },
+  {
+    "title": "Brave",
+    "description": "Animation/Adventure, 2012. A Scottish princess defies tradition and changes her fate. Voices of Kelly Macdonald and Emma Thompson."
+  },
+  {
+    "title": "Ratatouille",
+    "description": "Animation/Comedy, 2007. A rat dreams of becoming a chef in Paris. Voices of Patton Oswalt and Ian Holm."
+  },
+  {
+    "title": "The Incredibles",
+    "description": "Animation/Action, 2004. A superhero family tries to live a quiet suburban life but is pulled back into action. Voices of Craig T. Nelson and Holly Hunter."
+  },
+  {
+    "title": "The Incredibles 2",
+    "description": "Animation/Action, 2018. Elastigirl takes the spotlight while Mr. Incredible stays home with the kids. Voices of Craig T. Nelson and Holly Hunter."
+  },
+  {
+    "title": "Finding Dory",
+    "description": "Animation/Adventure, 2016. Dory goes on a quest to find her long-lost family. Voices of Ellen DeGeneres and Albert Brooks."
+  },
+  {
+    "title": "Cars",
+    "description": "Animation/Comedy, 2006. A race car learns about friendship in a small town. Voices of Owen Wilson and Bonnie Hunt."
+  },
+  {
+    "title": "Cars 2",
+    "description": "Animation/Comedy, 2011. Lightning McQueen and Mater get caught up in international espionage. Voices of Owen Wilson and Larry the Cable Guy."
+  },
+  {
+    "title": "Cars 3",
+    "description": "Animation/Comedy, 2017. Lightning McQueen faces a new generation of racers. Voices of Owen Wilson and Cristela Alonzo."
+  },
+  {
+    "title": "Wall-E",
+    "description": "Animation/Science Fiction, 2008. A lonely robot cleans up Earth and finds love. Voices of Ben Burtt and Elissa Knight."
+  },
+  {
+    "title": "A Bug’s Life",
+    "description": "Animation/Adventure, 1998. An inventive ant recruits circus bugs to save his colony. Voices of Dave Foley and Kevin Spacey."
+  },
+  {
+    "title": "Kung Fu Panda",
+    "description": "Animation/Action, 2008. A clumsy panda becomes the Dragon Warrior. Voices of Jack Black and Dustin Hoffman."
+  },
+  {
+    "title": "Kung Fu Panda 2",
+    "description": "Animation/Action, 2011. Po discovers secrets about his past while facing a new enemy. Voices of Jack Black and Angelina Jolie."
+  },
+  {
+    "title": "Kung Fu Panda 3",
+    "description": "Animation/Action, 2016. Po reunites with his long-lost father and trains pandas for battle. Voices of Jack Black and Bryan Cranston."
+  },
+  {
+    "title": "Madagascar",
+    "description": "Animation/Comedy, 2005. Zoo animals escape and end up stranded in the wild. Voices of Ben Stiller and Chris Rock."
+  },
+  {
+    "title": "Madagascar: Escape 2 Africa",
+    "description": "Animation/Comedy, 2008. The animals crash-land in Africa and meet their families. Voices of Ben Stiller and Jada Pinkett Smith."
+  },
+  {
+    "title": "Madagascar 3: Europe’s Most Wanted",
+    "description": "Animation/Comedy, 2012. The animals join a traveling circus to return to New York. Voices of Ben Stiller and Chris Rock."
+  },
+  {
+    "title": "Ice Age",
+    "description": "Animation/Adventure, 2002. A mammoth, sloth, and saber-tooth tiger team up to return a human baby. Voices of Ray Romano and John Leguizamo."
+  },
+  {
+    "title": "Ice Age: The Meltdown",
+    "description": "Animation/Adventure, 2006. The herd faces flooding as ice melts. Voices of Ray Romano and Queen Latifah."
+  },
+  {
+    "title": "Ice Age: Dawn of the Dinosaurs",
+    "description": "Animation/Adventure, 2009. The herd discovers dinosaurs still exist underground. Voices of Ray Romano and John Leguizamo."
+  },
+  {
+    "title": "Ice Age: Continental Drift",
+    "description": "Animation/Adventure, 2012. The herd drifts across the ocean on an iceberg. Voices of Ray Romano and Denis Leary."
+  },
+  {
+    "title": "Ice Age: Collision Course",
+    "description": "Animation/Adventure, 2016. The herd tries to prevent a meteor strike. Voices of Ray Romano and Simon Pegg."
+  },
+  {
+    "title": "Despicable Me",
+    "description": "Animation/Comedy, 2010. A supervillain adopts three girls while plotting to steal the moon. Voices of Steve Carell and Miranda Cosgrove."
+  },
+  {
+    "title": "Despicable Me 2",
+    "description": "Animation/Comedy, 2013. Gru is recruited by the Anti-Villain League to stop a new criminal. Voices of Steve Carell and Kristen Wiig."
+  },
+  {
+    "title": "Despicable Me 3",
+    "description": "Animation/Comedy, 2017. Gru discovers he has a twin brother while facing a new villain. Voices of Steve Carell and Kristen Wiig."
+  },
+  {
+    "title": "Minions",
+    "description": "Animation/Comedy, 2015. The Minions search for a new evil master through history. Voices of Sandra Bullock and Jon Hamm."
+  },
+  {
+    "title": "Sing",
+    "description": "Animation/Comedy, 2016. Animals compete in a singing contest to save a theater. Voices of Matthew McConaughey and Reese Witherspoon."
+  },
+  {
+    "title": "Sing 2",
+    "description": "Animation/Comedy, 2021. The animals try to put on a show in a big city with a reclusive rock star. Voices of Matthew McConaughey and Bono."
+  },
+  {
+    "title": "Tangled",
+    "description": "Animation/Fantasy, 2010. Rapunzel escapes her tower with a thief to discover the world. Voices of Mandy Moore and Zachary Levi."
+  },
+  {
+    "title": "Big Hero 6",
+    "description": "Animation/Action, 2014. A boy teams up with an inflatable robot to fight a masked villain. Voices of Ryan Potter and Scott Adsit."
+  },
+  {
+    "title": "The Secret Life of Pets",
+    "description": "Animation/Comedy, 2016. Pets lead secret lives when their owners are away. Voices of Louis C.K. and Eric Stonestreet."
+  },
+  {
+    "title": "The Secret Life of Pets 2",
+    "description": "Animation/Comedy, 2019. Max faces new challenges while the pets go on adventures. Voices of Patton Oswalt and Kevin Hart."
+  },
+  {
+    "title": "The Croods",
+    "description": "Animation/Adventure, 2013. A prehistoric family embarks on a journey to find a new home. Voices of Nicolas Cage and Emma Stone."
+  },
+  {
+    "title": "The Croods: A New Age",
+    "description": "Animation/Adventure, 2020. The Croods meet another family in their search for survival. Voices of Nicolas Cage and Emma Stone."
+  },
+  {
+    "title": "Hotel Transylvania",
+    "description": "Animation/Comedy, 2012. Dracula runs a hotel for monsters but struggles when a human arrives. Voices of Adam Sandler and Selena Gomez."
+  },
+  {
+    "title": "Hotel Transylvania 2",
+    "description": "Animation/Comedy, 2015. Dracula worries about his grandson not showing vampire traits. Voices of Adam Sandler and Selena Gomez."
+  },
+  {
+    "title": "Hotel Transylvania 3: Summer Vacation",
+    "description": "Animation/Comedy, 2018. Dracula and his friends take a cruise vacation where he meets a new love interest. Voices of Adam Sandler and Selena Gomez."
+  },
+  {
+    "title": "Hotel Transylvania: Transformania",
+    "description": "Animation/Comedy, 2022. A malfunctioning invention turns monsters into humans and vice versa. Voices of Andy Samberg and Selena Gomez."
+  },
+  {
+    "title": "How to Train Your Dragon",
+    "description": "Animation/Adventure, 2010. A young Viking befriends a dragon and changes his village’s views. Voices of Jay Baruchel and America Ferrera."
+  },
+  {
+    "title": "How to Train Your Dragon 2",
+    "description": "Animation/Adventure, 2014. Hiccup discovers his long-lost mother while facing a new dragon army. Voices of Jay Baruchel and Cate Blanchett."
+  },
+  {
+    "title": "How to Train Your Dragon: The Hidden World",
+    "description": "Animation/Adventure, 2019. Hiccup searches for a hidden world of dragons to protect them from danger. Voices of Jay Baruchel and America Ferrera."
+  },
+  {
+    "title": "Megamind",
+    "description": "Animation/Comedy, 2010. A supervillain struggles with purpose after defeating his nemesis. Voices of Will Ferrell and Tina Fey."
+  },
+  {
+    "title": "The Lego Movie",
+    "description": "Animation/Adventure, 2014. An ordinary Lego figure is mistaken for the chosen one to save the Lego universe. Voices of Chris Pratt and Elizabeth Banks."
+  },
+  {
+    "title": "The Lego Movie 2: The Second Part",
+    "description": "Animation/Adventure, 2019. The Lego heroes face a new threat from outer space. Voices of Chris Pratt and Elizabeth Banks."
+  },
+  {
+    "title": "The Lego Batman Movie",
+    "description": "Animation/Comedy, 2017. Batman must work with others to stop the Joker’s evil plan. Voices of Will Arnett and Michael Cera."
+  },
+  {
+    "title": "The Lego Ninjago Movie",
+    "description": "Animation/Action, 2017. A young ninja faces family issues while defending his city. Voices of Dave Franco and Justin Theroux."
+  },
+  {
+    "title": "The Angry Birds Movie",
+    "description": "Animation/Comedy, 2016. Birds team up to defend their eggs from invading pigs. Voices of Jason Sudeikis and Josh Gad."
+  },
+  {
+    "title": "The Angry Birds Movie 2",
+    "description": "Animation/Comedy, 2019. Birds and pigs form an unlikely alliance against a new threat. Voices of Jason Sudeikis and Rachel Bloom."
+  },
+  {
+    "title": "Rio",
+    "description": "Animation/Adventure, 2011. A domesticated macaw travels to Rio de Janeiro and discovers his roots. Voices of Jesse Eisenberg and Anne Hathaway."
+  },
+  {
+    "title": "Rio 2",
+    "description": "Animation/Adventure, 2014. Blu and Jewel explore the Amazon rainforest with their family. Voices of Jesse Eisenberg and Anne Hathaway."
+  },
+  {
+    "title": "Happy Feet",
+    "description": "Animation/Musical, 2006. A penguin who can’t sing finds his own rhythm through dance. Voices of Elijah Wood and Robin Williams."
+  },
+  {
+    "title": "Happy Feet Two",
+    "description": "Animation/Musical, 2011. Mumble’s son struggles to find his own talent while a new threat emerges. Voices of Elijah Wood and Pink."
+  },
+  {
+    "title": "March of the Penguins",
+    "description": "Documentary, 2005. Chronicles the annual journey of emperor penguins in Antarctica. Narrated by Morgan Freeman."
+  },
+  {
+    "title": "Babe",
+    "description": "Family/Drama, 1995. A pig with dreams of becoming a sheepdog proves his worth. Starring James Cromwell and Christine Cavanaugh."
+  },
+  {
+    "title": "Babe: Pig in the City",
+    "description": "Family/Adventure, 1998. Babe ventures into the city to save his farm. Starring Magda Szubanski and Elizabeth Daily."
+  },
+  {
+    "title": "Stuart Little",
+    "description": "Family/Comedy, 1999. A talking mouse is adopted by a human family. Starring Michael J. Fox (voice) and Geena Davis."
+  },
+  {
+    "title": "Stuart Little 2",
+    "description": "Family/Comedy, 2002. Stuart befriends a bird in need while adjusting to life with his family. Voices of Michael J. Fox and Nathan Lane."
+  },
+  {
+    "title": "Charlotte’s Web",
+    "description": "Family/Drama, 2006. A pig’s life is saved by the friendship of a clever spider. Starring Dakota Fanning and Julia Roberts (voice)."
+  },
+  {
+    "title": "Paddington",
+    "description": "Family/Comedy, 2014. A talking bear from Peru moves in with a London family. Starring Ben Whishaw (voice) and Hugh Bonneville."
+  },
+  {
+    "title": "Paddington 2",
+    "description": "Family/Comedy, 2017. Paddington gets framed for a crime and must clear his name. Starring Ben Whishaw (voice) and Hugh Grant."
+  },
+  {
+    "title": "Peter Rabbit",
+    "description": "Family/Comedy, 2018. A mischievous rabbit causes trouble in Mr. McGregor’s garden. Voices of James Corden and Rose Byrne."
+  },
+  {
+    "title": "Peter Rabbit 2: The Runaway",
+    "description": "Family/Comedy, 2021. Peter struggles with his reputation and explores life beyond the garden. Voices of James Corden and Rose Byrne."
+  },
+  {
+    "title": "The Jungle Book",
+    "description": "Adventure/Family, 1967. A boy raised by wolves must decide whether to stay in the jungle or live with humans. Voices of Phil Harris and Bruce Reitherman."
+  },
+  {
+    "title": "The Jungle Book",
+    "description": "Adventure/Family, 2016. A live-action retelling of the classic story of Mowgli. Starring Neel Sethi and voices of Bill Murray and Idris Elba."
+  },
+  {
+    "title": "Dumbo",
+    "description": "Animation/Family, 1941. A baby elephant with oversized ears learns to fly. Voices of Edward Brophy and Cliff Edwards."
+  },
+  {
+    "title": "Dumbo",
+    "description": "Family/Fantasy, 2019. A live-action adaptation of the flying elephant’s story. Starring Colin Farrell and Michael Keaton."
+  },
+  {
+    "title": "Bambi",
+    "description": "Animation/Family, 1942. A young deer grows up in the forest and faces hardships of life. Voices of Donnie Dunagan and Hardie Albright."
+  },
+  {
+    "title": "Lady and the Tramp",
+    "description": "Animation/Romance, 1955. A refined cocker spaniel falls in love with a streetwise mutt. Voices of Barbara Luddy and Larry Roberts."
+  },
+  {
+    "title": "Lady and the Tramp",
+    "description": "Family/Romance, 2019. A live-action retelling of the doggy love story. Starring Tessa Thompson and Justin Theroux."
+  },
+  {
+    "title": "101 Dalmatians",
+    "description": "Animation/Adventure, 1961. Dogs band together to save their puppies from Cruella de Vil. Voices of Rod Taylor and Betty Lou Gerson."
+  },
+  {
+    "title": "101 Dalmatians",
+    "description": "Family/Comedy, 1996. A live-action remake featuring Glenn Close as Cruella de Vil. Starring Glenn Close and Jeff Daniels."
+  },
+  {
+    "title": "102 Dalmatians",
+    "description": "Family/Comedy, 2000. Cruella tries to steal more puppies for her fashion obsession. Starring Glenn Close."
+  },
+  {
+    "title": "The Aristocats",
+    "description": "Animation/Family, 1970. Aristocratic cats try to return home after being kidnapped. Voices of Phil Harris and Eva Gabor."
+  },
+  {
+    "title": "Oliver & Company",
+    "description": "Animation/Adventure, 1988. A stray kitten joins a gang of dogs in New York City. Voices of Joey Lawrence and Billy Joel."
+  },
+  {
+    "title": "The Fox and the Hound",
+    "description": "Animation/Drama, 1981. A fox and a hunting dog form an unlikely friendship. Voices of Mickey Rooney and Kurt Russell."
+  },
+  {
+    "title": "The Rescuers",
+    "description": "Animation/Adventure, 1977. Two mice embark on a mission to save a kidnapped girl. Voices of Bob Newhart and Eva Gabor."
+  },
+  {
+    "title": "The Rescuers Down Under",
+    "description": "Animation/Adventure, 1990. The mice travel to Australia to rescue a boy from a poacher. Voices of Bob Newhart and Eva Gabor."
+  },
+  {
+    "title": "Hercules",
+    "description": "Animation/Fantasy, 1997. The son of Zeus must prove himself a true hero. Voices of Tate Donovan and James Woods."
+  },
+  {
+    "title": "Tarzan",
+    "description": "Animation/Adventure, 1999. A man raised by gorillas discovers human civilization. Voices of Tony Goldwyn and Minnie Driver."
+  },
+  {
+    "title": "Atlantis: The Lost Empire",
+    "description": "Animation/Adventure, 2001. A young explorer joins a mission to find the lost city of Atlantis. Voices of Michael J. Fox and Cree Summer."
+  },
+  {
+    "title": "Treasure Planet",
+    "description": "Animation/Adventure, 2002. A futuristic retelling of Treasure Island in space. Voices of Joseph Gordon-Levitt and Emma Thompson."
+  },
+  {
+    "title": "Lilo & Stitch",
+    "description": "Animation/Comedy, 2002. A Hawaiian girl befriends an alien experiment on the run. Voices of Daveigh Chase and Chris Sanders."
+  },
+  {
+    "title": "Lilo & Stitch 2: Stitch Has a Glitch",
+    "description": "Animation/Comedy, 2005. Stitch’s molecular structure begins to fail, threatening his life. Voices of Dakota Fanning and Chris Sanders."
+  },
+  {
+    "title": "The Emperor’s New Groove",
+    "description": "Animation/Comedy, 2000. An arrogant emperor is turned into a llama and learns humility. Voices of David Spade and John Goodman."
+  },
+  {
+    "title": "Kronk’s New Groove",
+    "description": "Animation/Comedy, 2005. Kronk tries to impress his father with his success. Voices of Patrick Warburton and Eartha Kitt."
+  },
+  {
+    "title": "Brother Bear",
+    "description": "Animation/Adventure, 2003. A boy is transformed into a bear and learns valuable lessons about nature. Voices of Joaquin Phoenix and Jeremy Suarez."
+  },
+  {
+    "title": "Brother Bear 2",
+    "description": "Animation/Adventure, 2006. Kenai and Nita reconnect as old friends while learning the value of love. Voices of Patrick Dempsey and Mandy Moore."
+  },
+  {
+    "title": "Pocahontas",
+    "description": "Animation/Drama, 1995. A Native American woman falls in love with an English settler amid cultural conflict. Voices of Irene Bedard and Mel Gibson."
+  },
+  {
+    "title": "Pocahontas II: Journey to a New World",
+    "description": "Animation/Adventure, 1998. Pocahontas travels to England to broker peace. Voices of Irene Bedard and Billy Zane."
+  },
+  {
+    "title": "The Hunchback of Notre Dame",
+    "description": "Animation/Drama, 1996. A deformed bell ringer yearns for acceptance while protecting his city. Voices of Tom Hulce and Demi Moore."
+  },
+  {
+    "title": "The Hunchback of Notre Dame II",
+    "description": "Animation/Family, 2002. Quasimodo befriends a circus performer and faces new villains. Voices of Tom Hulce and Jennifer Love Hewitt."
+  },
+  {
+    "title": "Fantasia",
+    "description": "Animation/Musical, 1940. A groundbreaking mix of classical music and animation sequences. Features Mickey Mouse as the Sorcerer’s Apprentice."
+  },
+  {
+    "title": "Fantasia 2000",
+    "description": "Animation/Musical, 1999. A sequel to the original Fantasia with new musical segments. Narrated by Steve Martin and others."
+  },
+  {
+    "title": "Sleeping Beauty",
+    "description": "Animation/Fantasy, 1959. A princess falls under a curse and must be awakened by true love’s kiss. Voices of Mary Costa and Eleanor Audley."
+  },
+  {
+    "title": "Snow White and the Seven Dwarfs",
+    "description": "Animation/Fantasy, 1937. Disney’s first full-length animated film about a princess and seven dwarfs. Voices of Adriana Caselotti and Lucille La Verne."
+  },
+  {
+    "title": "Cinderella",
+    "description": "Animation/Fantasy, 1950. A kind young woman’s life changes when her fairy godmother helps her attend the ball. Voices of Ilene Woods and Eleanor Audley."
+  },
+  {
+    "title": "Cinderella",
+    "description": "Fantasy/Romance, 2015. A live-action retelling of the fairy tale. Starring Lily James and Cate Blanchett."
+  },
+  {
+    "title": "Cinderella II: Dreams Come True",
+    "description": "Animation/Family, 2002. Cinderella adapts to her new life as a princess. Voices of Jennifer Hale and Rob Paulsen."
+  },
+  {
+    "title": "Cinderella III: A Twist in Time",
+    "description": "Animation/Fantasy, 2007. The evil stepmother alters time with a magical wand. Voices of Jennifer Hale and Susanne Blakeslee."
+  },
+  {
+    "title": "Enchanted",
+    "description": "Fantasy/Romance, 2007. A fairytale princess is transported to modern-day New York City. Starring Amy Adams and Patrick Dempsey."
+  },
+  {
+    "title": "Disenchanted",
+    "description": "Fantasy/Romance, 2022. Giselle struggles with suburban life and wishes for a fairytale, causing chaos. Starring Amy Adams and Maya Rudolph."
+  },
+  {
+    "title": "Frozen Fever",
+    "description": "Animation/Short, 2015. Elsa plans a birthday celebration for Anna while catching a cold. Voices of Idina Menzel and Kristen Bell."
+  },
+  {
+    "title": "Olaf’s Frozen Adventure",
+    "description": "Animation/Short, 2017. Olaf searches for holiday traditions for Anna and Elsa. Voices of Josh Gad and Kristen Bell."
+  },
+  {
+    "title": "Zack Snyder’s Justice League",
+    "description": "Superhero/Action, 2021. A director’s cut of Justice League with extended storylines. Starring Ben Affleck, Gal Gadot, and Henry Cavill."
+  },
+  {
+    "title": "Justice League",
+    "description": "Superhero/Action, 2017. Batman and Wonder Woman recruit heroes to face Steppenwolf. Starring Ben Affleck and Gal Gadot."
+  },
+  {
+    "title": "Aquaman",
+    "description": "Superhero/Adventure, 2018. Arthur Curry must embrace his heritage to save Atlantis. Starring Jason Momoa and Amber Heard."
+  },
+  {
+    "title": "Aquaman and the Lost Kingdom",
+    "description": "Superhero/Adventure, 2023. Aquaman joins forces with his brother to protect Atlantis from destruction. Starring Jason Momoa."
+  },
+  {
+    "title": "Shazam!",
+    "description": "Superhero/Comedy, 2019. A teenage boy gains the power to transform into an adult superhero. Starring Zachary Levi."
+  },
+  {
+    "title": "Shazam! Fury of the Gods",
+    "description": "Superhero/Comedy, 2023. Billy Batson and his foster siblings face the Daughters of Atlas. Starring Zachary Levi and Helen Mirren."
+  },
+  {
+    "title": "The Flash",
+    "description": "Superhero/Adventure, 2023. Barry Allen alters the timeline to save his mother, unleashing chaos. Starring Ezra Miller and Michael Keaton."
+  },
+  {
+    "title": "Suicide Squad",
+    "description": "Superhero/Action, 2016. Villains are recruited for dangerous government missions. Starring Will Smith, Margot Robbie, and Jared Leto."
+  },
+  {
+    "title": "The Suicide Squad",
+    "description": "Superhero/Comedy, 2021. A new squad of villains embarks on a bloody mission. Starring Margot Robbie and Idris Elba."
+  },
+  {
+    "title": "Birds of Prey",
+    "description": "Superhero/Action, 2020. Harley Quinn teams up with other women to take down a crime lord. Starring Margot Robbie."
+  },
+  {
+    "title": "Batman v Superman: Dawn of Justice",
+    "description": "Superhero/Action, 2016. Batman and Superman clash while facing a new threat. Starring Ben Affleck and Henry Cavill."
+  },
+  {
+    "title": "Watchmen",
+    "description": "Superhero/Drama, 2009. Retired vigilantes investigate a murder that uncovers a conspiracy. Starring Jackie Earle Haley and Malin Akerman."
+  },
+  {
+    "title": "V for Vendetta",
+    "description": "Thriller/Drama, 2005. A masked vigilante fights a totalitarian regime in Britain. Starring Hugo Weaving and Natalie Portman."
+  },
+  {
+    "title": "300",
+    "description": "Action/War, 2006. King Leonidas and his 300 Spartans fight the Persian army. Starring Gerard Butler."
+  },
+  {
+    "title": "300: Rise of an Empire",
+    "description": "Action/War, 2014. Greek general Themistocles leads a naval battle against Persia. Starring Sullivan Stapleton and Eva Green."
+  },
+  {
+    "title": "Clash of the Titans",
+    "description": "Fantasy/Adventure, 2010. Perseus must defeat mythical creatures to save humanity. Starring Sam Worthington and Liam Neeson."
+  },
+  {
+    "title": "Wrath of the Titans",
+    "description": "Fantasy/Adventure, 2012. Perseus ventures into the underworld to rescue Zeus. Starring Sam Worthington and Ralph Fiennes."
+  },
+  {
+    "title": "Immortals",
+    "description": "Fantasy/Action, 2011. A mortal leads a fight against King Hyperion’s quest for power. Starring Henry Cavill."
+  },
+  {
+    "title": "Troy",
+    "description": "Historical/Action, 2004. The Greek armies wage war against Troy after Paris takes Helen. Starring Brad Pitt and Eric Bana."
+  },
+  {
+    "title": "Alexander",
+    "description": "Historical/Drama, 2004. The story of Alexander the Great’s conquests. Starring Colin Farrell and Angelina Jolie."
+  },
+  {
+    "title": "Kingdom of Heaven",
+    "description": "Historical/Drama, 2005. A blacksmith becomes a knight and defends Jerusalem during the Crusades. Starring Orlando Bloom."
+  },
+  {
+    "title": "Robin Hood",
+    "description": "Adventure/Action, 2010. A retelling of the outlaw archer’s story. Starring Russell Crowe and Cate Blanchett."
+  },
+  {
+    "title": "Prince of Persia: The Sands of Time",
+    "description": "Fantasy/Action, 2010. A prince and princess must stop a villain with a time-altering dagger. Starring Jake Gyllenhaal and Gemma Arterton."
+  },
+  {
+    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "description": "Fantasy/Adventure, 2005. Four siblings discover a magical world ruled by an evil witch. Starring Georgie Henley and Tilda Swinton."
+  },
+  {
+    "title": "The Chronicles of Narnia: Prince Caspian",
+    "description": "Fantasy/Adventure, 2008. The siblings return to Narnia to help Prince Caspian. Starring Ben Barnes and William Moseley."
+  },
+  {
+    "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+    "description": "Fantasy/Adventure, 2010. Lucy and Edmund sail to distant lands with Prince Caspian. Starring Georgie Henley and Skandar Keynes."
+  },
+  {
+    "title": "Eragon",
+    "description": "Fantasy/Adventure, 2006. A farm boy discovers a dragon egg that changes his destiny. Starring Edward Speleers and Jeremy Irons."
+  },
+  {
+    "title": "The Golden Compass",
+    "description": "Fantasy/Adventure, 2007. A girl with a mystical compass journeys to the Arctic to rescue her friend. Starring Dakota Blue Richards and Nicole Kidman."
+  },
+  {
+    "title": "Bridge to Terabithia",
+    "description": "Fantasy/Drama, 2007. Two children create an imaginary world to escape real-life struggles. Starring Josh Hutcherson and AnnaSophia Robb."
+  },
+  {
+    "title": "Stardust",
+    "description": "Fantasy/Adventure, 2007. A young man enters a magical realm to retrieve a fallen star. Starring Charlie Cox and Claire Danes."
+  },
+  {
+    "title": "Pan’s Labyrinth",
+    "description": "Fantasy/Drama, 2006. A girl escapes into a dark fantasy world during the Spanish Civil War. Starring Ivana Baquero and Sergi López."
+  },
+  {
+    "title": "The Shape of Water",
+    "description": "Fantasy/Romance, 2017. A mute woman forms a bond with an amphibious creature in a lab. Starring Sally Hawkins and Doug Jones."
+  },
+  {
+    "title": "The Curious Case of Benjamin Button",
+    "description": "Drama/Fantasy, 2008. A man is born old and ages backwards, experiencing life in reverse. Starring Brad Pitt and Cate Blanchett."
+  },
+  {
+    "title": "The Green Mile",
+    "description": "Drama/Fantasy, 1999. A prison guard discovers a death row inmate with supernatural healing powers. Starring Tom Hanks and Michael Clarke Duncan."
+  },
+  {
+    "title": "The Prestige",
+    "description": "Drama/Thriller, 2006. Rival magicians engage in a dangerous game of one-upmanship. Starring Christian Bale and Hugh Jackman."
+  },
+  {
+    "title": "Memento",
+    "description": "Thriller/Mystery, 2000. A man with short-term memory loss seeks his wife’s killer using tattoos and notes. Starring Guy Pearce."
+  },
+  {
+    "title": "Interstellar",
+    "description": "Science Fiction/Adventure, 2014. Astronauts travel through a wormhole to save humanity. Starring Matthew McConaughey and Anne Hathaway."
+  },
+  {
+    "title": "Tenet",
+    "description": "Science Fiction/Thriller, 2020. A secret agent manipulates time to prevent global destruction. Starring John David Washington and Robert Pattinson."
+  },
+  {
+    "title": "Dunkirk",
+    "description": "War/Drama, 2017. The evacuation of Allied soldiers from Dunkirk during WWII. Starring Fionn Whitehead, Tom Hardy, and Harry Styles."
+  },
+  {
+    "title": "Oppenheimer",
+    "description": "Historical/Drama, 2023. The life of physicist J. Robert Oppenheimer and the creation of the atomic bomb. Starring Cillian Murphy."
+  },
+  {
+    "title": "The Revenant",
+    "description": "Drama/Adventure, 2015. A frontiersman survives betrayal and harsh wilderness to seek revenge. Starring Leonardo DiCaprio."
+  },
+  {
+    "title": "Birdman",
+    "description": "Drama/Comedy, 2014. A washed-up actor struggles to stage a Broadway play. Starring Michael Keaton."
+  },
+  {
+    "title": "Whiplash",
+    "description": "Drama/Music, 2014. A young drummer faces brutal training from an abusive instructor. Starring Miles Teller and J.K. Simmons."
+  },
+  {
+    "title": "La La Land",
+    "description": "Romance/Musical, 2016. A jazz musician and aspiring actress fall in love while chasing their dreams. Starring Ryan Gosling and Emma Stone."
+  },
+  {
+    "title": "A Star Is Born",
+    "description": "Drama/Musical, 2018. A seasoned musician mentors a rising star while battling his own decline. Starring Bradley Cooper and Lady Gaga."
+  },
+  {
+    "title": "Bohemian Rhapsody",
+    "description": "Biography/Musical, 2018. The rise of Freddie Mercury and Queen leading up to Live Aid. Starring Rami Malek."
+  },
+  {
+    "title": "Rocketman",
+    "description": "Biography/Musical, 2019. The life and career of Elton John. Starring Taron Egerton."
+  },
+  {
+    "title": "Elvis",
+    "description": "Biography/Drama, 2022. Chronicles the life and career of Elvis Presley. Starring Austin Butler and Tom Hanks."
+  },
+  {
+    "title": "Ray",
+    "description": "Biography/Drama, 2004. The life story of musician Ray Charles. Starring Jamie Foxx."
+  },
+  {
+    "title": "Walk the Line",
+    "description": "Biography/Drama, 2005. The story of Johnny Cash and his love with June Carter. Starring Joaquin Phoenix and Reese Witherspoon."
+  },
+  {
+    "title": "Amadeus",
+    "description": "Biography/Drama, 1984. A dramatic portrayal of Mozart’s life and rivalry with Salieri. Starring Tom Hulce and F. Murray Abraham."
+  },
+  {
+    "title": "The Pianist",
+    "description": "Biography/Drama, 2002. A Jewish pianist struggles to survive during the Holocaust. Starring Adrien Brody."
+  },
+  {
+    "title": "Black Swan",
+    "description": "Thriller/Drama, 2010. A ballerina’s obsession with perfection drives her into madness. Starring Natalie Portman and Mila Kunis."
+  },
+  {
+    "title": "Requiem for a Dream",
+    "description": "Drama, 2000. The lives of four people spiral out of control due to addiction. Starring Ellen Burstyn and Jared Leto."
+  },
+  {
+    "title": "Trainspotting",
+    "description": "Drama/Crime, 1996. A group of heroin addicts in Edinburgh struggle with life. Starring Ewan McGregor."
+  },
+  {
+    "title": "Slumdog Millionaire",
+    "description": "Drama/Romance, 2008. A young man recounts his life story while competing on a game show. Starring Dev Patel and Freida Pinto."
+  },
+  {
+    "title": "Life of Pi",
+    "description": "Adventure/Drama, 2012. A boy survives a shipwreck and shares a lifeboat with a tiger. Starring Suraj Sharma."
+  },
+  {
+    "title": "127 Hours",
+    "description": "Drama/Thriller, 2010. Based on a true story of a hiker trapped by a boulder. Starring James Franco."
+  },
+  {
+    "title": "Cast Away",
+    "description": "Drama/Adventure, 2000. A man stranded on a deserted island struggles to survive. Starring Tom Hanks."
+  },
+  {
+    "title": "Gravity",
+    "description": "Science Fiction/Thriller, 2013. Two astronauts struggle to survive after their shuttle is destroyed. Starring Sandra Bullock and George Clooney."
+  },
+  {
+    "title": "Arrival",
+    "description": "Science Fiction/Drama, 2016. A linguist works to communicate with aliens arriving on Earth. Starring Amy Adams and Jeremy Renner."
+  },
+  {
+    "title": "Contact",
+    "description": "Science Fiction/Drama, 1997. A scientist discovers evidence of extraterrestrial life. Starring Jodie Foster and Matthew McConaughey."
+  },
+  {
+    "title": "The Martian",
+    "description": "Science Fiction/Adventure, 2015. An astronaut stranded on Mars tries to survive until rescue. Starring Matt Damon."
+  },
+  {
+    "title": "Apollo 13",
+    "description": "Historical/Drama, 1995. NASA’s Apollo 13 mission faces disaster in space. Starring Tom Hanks, Kevin Bacon, and Bill Paxton."
+  },
+  {
+    "title": "First Man",
+    "description": "Biography/Drama, 2018. The life of astronaut Neil Armstrong leading up to the moon landing. Starring Ryan Gosling."
+  },
+  {
+    "title": "Hidden Figures",
+    "description": "Biography/Drama, 2016. The story of African-American women mathematicians at NASA. Starring Taraji P. Henson and Octavia Spencer."
+  },
+  {
+    "title": "The Imitation Game",
+    "description": "Biography/Drama, 2014. Alan Turing helps crack the Nazi Enigma code during WWII. Starring Benedict Cumberbatch and Keira Knightley."
+  },
+  {
+    "title": "A Beautiful Mind",
+    "description": "Biography/Drama, 2001. The life of mathematician John Nash and his struggles with schizophrenia. Starring Russell Crowe."
+  },
+  {
+    "title": "Good Will Hunting",
+    "description": "Drama, 1997. A janitor at MIT is secretly a math genius and seeks direction in life. Starring Matt Damon and Robin Williams."
+  },
+  {
+    "title": "Dead Poets Society",
+    "description": "Drama, 1989. An English teacher inspires students to seize the day. Starring Robin Williams."
+  },
+  {
+    "title": "The Social Network",
+    "description": "Drama, 2010. The founding of Facebook and the lawsuits that followed. Starring Jesse Eisenberg and Andrew Garfield."
+  },
+  {
+    "title": "Steve Jobs",
+    "description": "Biography/Drama, 2015. A behind-the-scenes look at Apple’s co-founder. Starring Michael Fassbender and Kate Winslet."
+  },
+  {
+    "title": "Jobs",
+    "description": "Biography/Drama, 2013. Chronicles the life and career of Steve Jobs. Starring Ashton Kutcher."
+  },
+  {
+    "title": "The Wolf of Wall Street",
+    "description": "Biography/Comedy, 2013. A stockbroker rises to wealth and excess through fraud. Starring Leonardo DiCaprio and Jonah Hill."
+  },
+  {
+    "title": "The Big Short",
+    "description": "Biography/Comedy, 2015. A group of investors predict the 2008 financial crisis. Starring Christian Bale, Steve Carell, and Ryan Gosling."
+  },
+  {
+    "title": "Margin Call",
+    "description": "Drama/Thriller, 2011. A financial firm faces collapse during the 2008 economic crisis. Starring Kevin Spacey and Jeremy Irons."
+  },
+  {
+    "title": "Wall Street",
+    "description": "Drama/Crime, 1987. A young stockbroker is lured into insider trading by a ruthless financier. Starring Michael Douglas and Charlie Sheen."
+  },
+  {
+    "title": "Wall Street: Money Never Sleeps",
+    "description": "Drama/Crime, 2010. Gordon Gekko returns to mentor a new trader during the 2008 crash. Starring Michael Douglas and Shia LaBeouf."
+  },
+  {
+    "title": "American Psycho",
+    "description": "Thriller/Drama, 2000. A wealthy New York banker hides a violent double life. Starring Christian Bale."
+  },
+  {
+    "title": "No Country for Old Men",
+    "description": "Thriller/Crime, 2007. A hunter finds stolen money, pursued by a ruthless killer. Starring Javier Bardem, Josh Brolin, and Tommy Lee Jones."
+  },
+  {
+    "title": "There Will Be Blood",
+    "description": "Drama, 2007. An ambitious oilman’s greed and obsession lead to tragedy. Starring Daniel Day-Lewis."
+  },
+  {
+    "title": "Gangs of New York",
+    "description": "Historical/Drama, 2002. In 19th-century New York, a young man seeks revenge against a powerful gang leader. Starring Leonardo DiCaprio and Daniel Day-Lewis."
+  },
+  {
+    "title": "Lincoln",
+    "description": "Biography/Drama, 2012. President Abraham Lincoln works to pass the 13th Amendment abolishing slavery. Starring Daniel Day-Lewis and Sally Field."
+  },
+  {
+    "title": "12 Years a Slave",
+    "description": "Biography/Drama, 2013. The true story of Solomon Northup, a free man kidnapped into slavery. Starring Chiwetel Ejiofor and Lupita Nyong’o."
+  },
+  {
+    "title": "Selma",
+    "description": "Historical/Drama, 2014. The story of Martin Luther King Jr.'s march from Selma to Montgomery. Starring David Oyelowo."
+  },
+  {
+    "title": "Malcolm X",
+    "description": "Biography/Drama, 1992. The life and assassination of civil rights leader Malcolm X. Starring Denzel Washington."
+  },
+  {
+    "title": "Glory",
+    "description": "Historical/War, 1989. The first African-American regiment fights in the Civil War. Starring Matthew Broderick, Denzel Washington, and Morgan Freeman."
+  },
+  {
+    "title": "Braveheart",
+    "description": "Historical/Drama, 1995. Scottish warrior William Wallace leads a rebellion against England. Starring Mel Gibson."
+  },
+  {
+    "title": "The Patriot",
+    "description": "Historical/Drama, 2000. A farmer reluctantly joins the American Revolution after tragedy strikes his family. Starring Mel Gibson and Heath Ledger."
+  },
+  {
+    "title": "Apocalypto",
+    "description": "Adventure/Drama, 2006. A Mayan man must escape captivity and return to his family. Directed by Mel Gibson, starring Rudy Youngblood."
+  },
+  {
+    "title": "The Last Samurai",
+    "description": "Historical/Drama, 2003. An American soldier embraces samurai culture during Japan’s modernization. Starring Tom Cruise and Ken Watanabe."
+  },
+  {
+    "title": "Memoirs of a Geisha",
+    "description": "Drama/Romance, 2005. The story of a young girl sold to a geisha house in Japan. Starring Zhang Ziyi and Ken Watanabe."
+  },
+  {
+    "title": "Crouching Tiger, Hidden Dragon",
+    "description": "Fantasy/Action, 2000. Warriors pursue a stolen sword while facing forbidden love. Starring Chow Yun-Fat, Michelle Yeoh, and Zhang Ziyi."
+  },
+  {
+    "title": "House of Flying Daggers",
+    "description": "Fantasy/Action, 2004. A soldier and a rebel fall in love during a rebellion in ancient China. Starring Zhang Ziyi and Takeshi Kaneshiro."
+  },
+  {
+    "title": "Hero",
+    "description": "Fantasy/Action, 2002. A nameless warrior recounts battles against assassins in ancient China. Starring Jet Li."
+  },
+  {
+    "title": "Ip Man",
+    "description": "Biography/Action, 2008. The story of martial artist Ip Man, Bruce Lee’s teacher. Starring Donnie Yen."
+  },
+  {
+    "title": "Ip Man 2",
+    "description": "Biography/Action, 2010. Ip Man faces challenges as he opens a martial arts school in Hong Kong. Starring Donnie Yen."
+  },
+  {
+    "title": "Ip Man 3",
+    "description": "Biography/Action, 2015. Ip Man confronts a ruthless property developer. Starring Donnie Yen and Mike Tyson."
+  },
+  {
+    "title": "Ip Man 4: The Finale",
+    "description": "Biography/Action, 2019. Ip Man travels to America to secure his son’s future. Starring Donnie Yen."
+  },
+  {
+    "title": "Enter the Dragon",
+    "description": "Martial Arts/Action, 1973. Bruce Lee infiltrates a martial arts tournament on a crime lord’s island. Starring Bruce Lee."
+  },
+  {
+    "title": "Fist of Fury",
+    "description": "Martial Arts/Action, 1972. A martial artist seeks revenge for his master’s death. Starring Bruce Lee."
+  },
+  {
+    "title": "The Big Boss",
+    "description": "Martial Arts/Action, 1971. A man breaks his vow of peace to fight corruption. Starring Bruce Lee."
+  },
+  {
+    "title": "Game of Death",
+    "description": "Martial Arts/Action, 1978. Bruce Lee’s unfinished film about a fighter climbing a pagoda of challenges. Starring Bruce Lee and Kareem Abdul-Jabbar."
+  },
+  {
+    "title": "Kill Bill: Vol. 1",
+    "description": "Action/Thriller, 2003. A former assassin seeks revenge on her former allies. Starring Uma Thurman."
+  },
+  {
+    "title": "Kill Bill: Vol. 2",
+    "description": "Action/Thriller, 2004. The Bride continues her quest for revenge against Bill. Starring Uma Thurman and David Carradine."
+  },
+  {
+    "title": "Pulp Fiction",
+    "description": "Crime/Drama, 1994. Interwoven stories of crime and redemption in Los Angeles. Starring John Travolta and Uma Thurman."
+  },
+  {
+    "title": "Reservoir Dogs",
+    "description": "Crime/Thriller, 1992. A group of criminals suspects a traitor after a botched heist. Starring Harvey Keitel and Tim Roth."
+  },
+  {
+    "title": "Jackie Brown",
+    "description": "Crime/Thriller, 1997. A flight attendant gets caught smuggling money and plays both sides. Starring Pam Grier and Samuel L. Jackson."
+  },
+  {
+    "title": "Django Unchained",
+    "description": "Western/Drama, 2012. A freed slave teams up with a bounty hunter to rescue his wife. Starring Jamie Foxx, Christoph Waltz, and Leonardo DiCaprio."
+  },
+  {
+    "title": "The Hateful Eight",
+    "description": "Western/Thriller, 2015. Bounty hunters and outlaws clash in a snowy cabin. Starring Samuel L. Jackson and Kurt Russell."
+  },
+  {
+    "title": "Once Upon a Time in Hollywood",
+    "description": "Drama/Comedy, 2019. An aging actor and his stunt double navigate Hollywood in 1969. Starring Leonardo DiCaprio, Brad Pitt, and Margot Robbie."
+  },
+  {
+    "title": "Inglourious Basterds",
+    "description": "War/Drama, 2009. Jewish soldiers plot to assassinate Nazi leaders in occupied France. Starring Brad Pitt and Christoph Waltz."
+  },
+  {
+    "title": "The Departed",
+    "description": "Crime/Thriller, 2006. An undercover cop and a mole in the police face off. Starring Leonardo DiCaprio, Matt Damon, and Jack Nicholson."
+  },
+  {
+    "title": "The Irishman",
+    "description": "Crime/Drama, 2019. A hitman reflects on his life in organized crime. Starring Robert De Niro, Al Pacino, and Joe Pesci."
+  },
+  {
+    "title": "Casino",
+    "description": "Crime/Drama, 1995. The rise and fall of a Las Vegas casino operator. Starring Robert De Niro, Joe Pesci, and Sharon Stone."
+  },
+  {
+    "title": "Raging Bull",
+    "description": "Biography/Drama, 1980. The life of boxer Jake LaMotta and his personal struggles. Starring Robert De Niro."
+  },
+  {
+    "title": "Taxi Driver",
+    "description": "Drama/Thriller, 1976. A mentally unstable veteran becomes a vigilante in New York. Starring Robert De Niro and Jodie Foster."
+  },
+  {
+    "title": "Mean Streets",
+    "description": "Crime/Drama, 1973. Young men struggle with crime and morality in New York’s Little Italy. Starring Harvey Keitel and Robert De Niro."
+  },
+  {
+    "title": "Heat",
+    "description": "Crime/Thriller, 1995. A master thief and a determined detective face off in Los Angeles. Starring Robert De Niro and Al Pacino."
+  },
+  {
+    "title": "Collateral",
+    "description": "Thriller/Crime, 2004. A cab driver is forced to drive a hitman across Los Angeles. Starring Tom Cruise and Jamie Foxx."
+  },
+  {
+    "title": "Michael Clayton",
+    "description": "Thriller/Drama, 2007. A fixer for a law firm faces a moral dilemma. Starring George Clooney and Tilda Swinton."
+  },
+  {
+    "title": "Syriana",
+    "description": "Thriller/Drama, 2005. A geopolitical thriller about oil, power, and corruption. Starring George Clooney and Matt Damon."
+  },
+  {
+    "title": "Argo",
+    "description": "Thriller/Drama, 2012. CIA agents create a fake movie to rescue hostages in Iran. Starring Ben Affleck and Bryan Cranston."
+  },
+  {
+    "title": "Gone Girl",
+    "description": "Thriller/Drama, 2014. A husband becomes the prime suspect when his wife goes missing. Starring Ben Affleck and Rosamund Pike."
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "description": "Thriller/Mystery, 2011. A journalist and hacker investigate a wealthy family’s secrets. Starring Rooney Mara and Daniel Craig."
+  },
+  {
+    "title": "Zodiac",
+    "description": "Thriller/Crime, 2007. A journalist and detective track the Zodiac killer in San Francisco. Starring Jake Gyllenhaal, Mark Ruffalo, and Robert Downey Jr."
+  },
+  {
+    "title": "Se7en",
+    "description": "Thriller/Crime, 1995. Two detectives hunt a serial killer using the seven deadly sins. Starring Morgan Freeman and Brad Pitt."
+  },
+  {
+    "title": "Fight Club",
+    "description": "Drama/Thriller, 1999. An office worker forms a secret fight club that spirals out of control. Starring Edward Norton and Brad Pitt."
+  },
+  {
+    "title": "The Usual Suspects",
+    "description": "Thriller/Crime, 1995. A group of criminals recounts a heist with a mysterious mastermind. Starring Kevin Spacey and Gabriel Byrne."
+  },
+  {
+    "title": "L.A. Confidential",
+    "description": "Thriller/Crime, 1997. Detectives uncover corruption and scandal in 1950s Los Angeles. Starring Russell Crowe, Kevin Spacey, and Guy Pearce."
+  },
+  {
+    "title": "Chinatown",
+    "description": "Thriller/Mystery, 1974. A private detective uncovers corruption, deceit, and family secrets in Los Angeles. Starring Jack Nicholson and Faye Dunaway."
+  },
+  {
+    "title": "Vertigo",
+    "description": "Thriller/Mystery, 1958. A retired detective with acrophobia becomes obsessed with a woman he is hired to follow. Starring James Stewart and Kim Novak."
+  },
+  {
+    "title": "Psycho",
+    "description": "Thriller/Horror, 1960. A secretary on the run checks into a motel run by Norman Bates. Starring Anthony Perkins and Janet Leigh."
+  },
+  {
+    "title": "Rear Window",
+    "description": "Thriller/Mystery, 1954. A photographer confined to his apartment spies on neighbors and suspects a murder. Starring James Stewart and Grace Kelly."
+  },
+  {
+    "title": "North by Northwest",
+    "description": "Thriller/Adventure, 1959. An advertising man is mistaken for a spy and pursued across the U.S. Starring Cary Grant and Eva Marie Saint."
+  },
+  {
+    "title": "The Birds",
+    "description": "Horror/Thriller, 1963. A small town is suddenly attacked by flocks of violent birds. Starring Tippi Hedren and Rod Taylor."
+  },
+  {
+    "title": "The Shining",
+    "description": "Horror/Thriller, 1980. A family isolated in a hotel is terrorized by supernatural forces. Starring Jack Nicholson and Shelley Duvall."
+  },
+  {
+    "title": "Doctor Sleep",
+    "description": "Horror/Drama, 2019. A grown-up Danny Torrance protects a girl with psychic powers from cultists. Starring Ewan McGregor."
+  },
+  {
+    "title": "It",
+    "description": "Horror, 2017. Children face a shapeshifting clown that preys on their fears. Starring Bill Skarsgård and Finn Wolfhard."
+  },
+  {
+    "title": "It Chapter Two",
+    "description": "Horror, 2019. The Losers Club returns as adults to face Pennywise once more. Starring James McAvoy and Jessica Chastain."
+  },
+  {
+    "title": "Carrie",
+    "description": "Horror/Drama, 1976. A bullied teenager discovers telekinetic powers with deadly results. Starring Sissy Spacek."
+  },
+  {
+    "title": "Misery",
+    "description": "Thriller/Horror, 1990. A novelist is held captive by an obsessed fan. Starring James Caan and Kathy Bates."
+  },
+  {
+    "title": "Pet Sematary",
+    "description": "Horror, 1989. A grieving family discovers a burial ground that brings the dead back to life. Starring Dale Midkiff and Denise Crosby."
+  },
+  {
+    "title": "Pet Sematary",
+    "description": "Horror, 2019. A modern retelling of the Stephen King classic about a cursed burial ground. Starring Jason Clarke and Amy Seimetz."
+  },
+  {
+    "title": "The Mist",
+    "description": "Horror/Sci-Fi, 2007. Townspeople trapped in a store face deadly creatures in a mysterious fog. Starring Thomas Jane and Marcia Gay Harden."
+  },
+  {
+    "title": "The Stand",
+    "description": "Drama/Fantasy, 1994. Survivors of a plague face off between good and evil in a post-apocalyptic world. Starring Gary Sinise and Molly Ringwald."
+  },
+  {
+    "title": "The Dead Zone",
+    "description": "Thriller/Sci-Fi, 1983. A man awakens from a coma with psychic abilities. Starring Christopher Walken."
+  },
+  {
+    "title": "Christine",
+    "description": "Horror, 1983. A possessed car influences its owner toward violence. Starring Keith Gordon."
+  },
+  {
+    "title": "Stand by Me",
+    "description": "Drama, 1986. Four boys go on a journey to find a missing body and discover themselves. Starring River Phoenix and Wil Wheaton."
+  },
+  {
+    "title": "The Sixth Sense",
+    "description": "Thriller/Drama, 1999. A boy who sees dead people confides in a troubled child psychologist. Starring Haley Joel Osment and Bruce Willis."
+  },
+  {
+    "title": "Unbreakable",
+    "description": "Thriller/Drama, 2000. A man discovers his superhuman abilities after surviving a train crash. Starring Bruce Willis and Samuel L. Jackson."
+  },
+  {
+    "title": "Split",
+    "description": "Thriller/Horror, 2016. A man with multiple personalities kidnaps three girls. Starring James McAvoy and Anya Taylor-Joy."
+  },
+  {
+    "title": "Glass",
+    "description": "Thriller/Sci-Fi, 2019. Heroes and villains are confined in a psychiatric hospital. Starring Bruce Willis, James McAvoy, and Samuel L. Jackson."
+  },
+  {
+    "title": "Signs",
+    "description": "Thriller/Sci-Fi, 2002. A family discovers crop circles and faces an alien invasion. Starring Mel Gibson and Joaquin Phoenix."
+  },
+  {
+    "title": "The Village",
+    "description": "Thriller/Drama, 2004. A secluded village fears creatures beyond its borders. Starring Bryce Dallas Howard and Joaquin Phoenix."
+  },
+  {
+    "title": "The Happening",
+    "description": "Thriller/Sci-Fi, 2008. A mysterious natural disaster drives people to mass suicide. Starring Mark Wahlberg and Zooey Deschanel."
+  },
+  {
+    "title": "Old",
+    "description": "Thriller/Sci-Fi, 2021. Vacationers trapped on a beach age rapidly. Starring Gael García Bernal and Vicky Krieps."
+  },
+  {
+    "title": "The Others",
+    "description": "Horror/Thriller, 2001. A woman believes her house is haunted as strange events unfold. Starring Nicole Kidman."
+  },
+  {
+    "title": "The Conjuring",
+    "description": "Horror/Thriller, 2013. Paranormal investigators help a family tormented by a dark presence. Starring Patrick Wilson and Vera Farmiga."
+  },
+  {
+    "title": "The Conjuring 2",
+    "description": "Horror/Thriller, 2016. The Warrens investigate the Enfield haunting in London. Starring Patrick Wilson and Vera Farmiga."
+  },
+  {
+    "title": "The Conjuring: The Devil Made Me Do It",
+    "description": "Horror/Thriller, 2021. The Warrens confront a murder case involving demonic possession. Starring Patrick Wilson and Vera Farmiga."
+  },
+  {
+    "title": "Annabelle",
+    "description": "Horror, 2014. A cursed doll brings terror to its owners. Starring Annabelle Wallis."
+  },
+  {
+    "title": "Annabelle: Creation",
+    "description": "Horror, 2017. The origin of the cursed doll unfolds in a haunted orphanage. Starring Anthony LaPaglia and Talitha Bateman."
+  },
+  {
+    "title": "Annabelle Comes Home",
+    "description": "Horror, 2019. The Warrens’ daughter is targeted when Annabelle awakens other artifacts. Starring Mckenna Grace."
+  },
+  {
+    "title": "The Nun",
+    "description": "Horror, 2018. A priest and a novice investigate a demonic nun in Romania. Starring Taissa Farmiga."
+  },
+  {
+    "title": "The Nun II",
+    "description": "Horror, 2023. Sister Irene faces Valak again in a battle of faith. Starring Taissa Farmiga."
+  },
+  {
+    "title": "The Curse of La Llorona",
+    "description": "Horror, 2019. A social worker and her children are haunted by the spirit of La Llorona. Starring Linda Cardellini."
+  },
+  {
+    "title": "Insidious",
+    "description": "Horror/Thriller, 2010. A family tries to save their son trapped in a supernatural realm. Starring Patrick Wilson and Rose Byrne."
+  },
+  {
+    "title": "Insidious: Chapter 2",
+    "description": "Horror/Thriller, 2013. The Lambert family confronts their past to defeat a haunting. Starring Patrick Wilson and Rose Byrne."
+  },
+  {
+    "title": "Insidious: Chapter 3",
+    "description": "Horror/Thriller, 2015. A prequel about a girl haunted after contacting the spirit world. Starring Stefanie Scott."
+  },
+  {
+    "title": "Insidious: The Last Key",
+    "description": "Horror/Thriller, 2018. Psychic Elise Rainier investigates her childhood home. Starring Lin Shaye."
+  },
+  {
+    "title": "Insidious: The Red Door",
+    "description": "Horror/Thriller, 2023. The Lambert family returns to face their darkest fears. Starring Patrick Wilson and Ty Simpkins."
+  },
+  {
+    "title": "Sinister",
+    "description": "Horror/Thriller, 2012. A true-crime writer discovers cursed home movies. Starring Ethan Hawke."
+  },
+  {
+    "title": "Sinister 2",
+    "description": "Horror/Thriller, 2015. A mother and her children are targeted by the demon Bughuul. Starring Shannyn Sossamon."
+  },
+  {
+    "title": "Paranormal Activity",
+    "description": "Horror/Thriller, 2007. A couple sets up cameras to capture strange events in their home. Starring Katie Featherston and Micah Sloat."
+  },
+  {
+    "title": "Paranormal Activity 2",
+    "description": "Horror/Thriller, 2010. Security cameras capture terrifying events linked to the first film. Starring Sprague Grayden."
+  },
+  {
+    "title": "Paranormal Activity 3",
+    "description": "Horror/Thriller, 2011. A prequel exploring the sisters’ childhood encounters with spirits. Starring Lauren Bittner."
+  },
+  {
+    "title": "Paranormal Activity 4",
+    "description": "Horror/Thriller, 2012. A teenager’s family experiences strange events after neighbors move in. Starring Kathryn Newton."
+  },
+  {
+    "title": "Paranormal Activity: The Marked Ones",
+    "description": "Horror, 2014. A spin-off following a young man marked by a demonic curse. Starring Andrew Jacobs."
+  },
+  {
+    "title": "Paranormal Activity: The Ghost Dimension",
+    "description": "Horror, 2015. A family discovers a camera that reveals demonic activity. Starring Chris J. Murray."
+  },
+  {
+    "title": "The Exorcist",
+    "description": "Horror, 1973. A young girl is possessed by a demon, leading her mother to seek help from priests. Starring Linda Blair and Max von Sydow."
+  },
+  {
+    "title": "The Exorcist III",
+    "description": "Horror, 1990. A detective investigates a string of murders linked to a serial killer and demonic possession. Starring George C. Scott."
+  },
+  {
+    "title": "The Exorcist: Believer",
+    "description": "Horror, 2023. Parents confront a new possession case tied to past horrors. Starring Leslie Odom Jr. and Ellen Burstyn."
+  },
+  {
+    "title": "The Omen",
+    "description": "Horror, 1976. A diplomat realizes his adopted son may be the Antichrist. Starring Gregory Peck."
+  },
+  {
+    "title": "The Omen",
+    "description": "Horror, 2006. A remake of the 1976 film about a boy who may be the Antichrist. Starring Liev Schreiber and Julia Stiles."
+  },
+  {
+    "title": "Damien: Omen II",
+    "description": "Horror, 1978. Damien discovers his true identity as the Antichrist. Starring William Holden."
+  },
+  {
+    "title": "Omen III: The Final Conflict",
+    "description": "Horror, 1981. Damien becomes a powerful man preparing for Armageddon. Starring Sam Neill."
+  },
+  {
+    "title": "Rosemary’s Baby",
+    "description": "Horror, 1968. A pregnant woman suspects her neighbors have sinister plans for her baby. Starring Mia Farrow."
+  },
+  {
+    "title": "Hereditary",
+    "description": "Horror/Drama, 2018. A family uncovers dark secrets after the death of their grandmother. Starring Toni Collette."
+  },
+  {
+    "title": "Midsommar",
+    "description": "Horror/Drama, 2019. Friends travel to Sweden for a festival that turns nightmarish. Starring Florence Pugh."
+  },
+  {
+    "title": "The Witch",
+    "description": "Horror/Drama, 2015. A Puritan family in 1600s New England encounters dark forces. Starring Anya Taylor-Joy."
+  },
+  {
+    "title": "The Lighthouse",
+    "description": "Horror/Drama, 2019. Two lighthouse keepers descend into madness. Starring Robert Pattinson and Willem Dafoe."
+  },
+  {
+    "title": "Get Out",
+    "description": "Horror/Thriller, 2017. A Black man visiting his girlfriend’s family uncovers disturbing secrets. Starring Daniel Kaluuya and Allison Williams."
+  },
+  {
+    "title": "Us",
+    "description": "Horror/Thriller, 2019. A family faces terrifying doppelgängers during a vacation. Starring Lupita Nyong’o and Winston Duke."
+  },
+  {
+    "title": "Nope",
+    "description": "Horror/Sci-Fi, 2022. Siblings discover a mysterious presence in the sky near their ranch. Starring Daniel Kaluuya and Keke Palmer."
+  },
+  {
+    "title": "Candyman",
+    "description": "Horror, 1992. A graduate student investigates the urban legend of Candyman. Starring Tony Todd and Virginia Madsen."
+  },
+  {
+    "title": "Candyman",
+    "description": "Horror, 2021. A spiritual sequel revisiting the Candyman legend. Starring Yahya Abdul-Mateen II."
+  },
+  {
+    "title": "Poltergeist",
+    "description": "Horror, 1982. A family’s home is haunted by malevolent spirits. Starring JoBeth Williams and Heather O’Rourke."
+  },
+  {
+    "title": "Poltergeist II: The Other Side",
+    "description": "Horror, 1986. The family faces new supernatural terrors. Starring JoBeth Williams and Craig T. Nelson."
+  },
+  {
+    "title": "Poltergeist III",
+    "description": "Horror, 1988. The spirits pursue Carol Anne in her new high-rise apartment. Starring Heather O’Rourke."
+  },
+  {
+    "title": "The Ring",
+    "description": "Horror, 2002. A cursed videotape causes anyone who watches it to die in seven days. Starring Naomi Watts."
+  },
+  {
+    "title": "The Ring Two",
+    "description": "Horror, 2005. Rachel and her son face the curse again. Starring Naomi Watts."
+  },
+  {
+    "title": "Ringu",
+    "description": "Horror, 1998. The Japanese original about a cursed videotape. Starring Nanako Matsushima."
+  },
+  {
+    "title": "Ju-On: The Grudge",
+    "description": "Horror, 2002. A curse spreads from a haunted house in Japan. Starring Takako Fuji."
+  },
+  {
+    "title": "The Grudge",
+    "description": "Horror, 2004. An American remake of Ju-On with a similar cursed house. Starring Sarah Michelle Gellar."
+  },
+  {
+    "title": "The Grudge 2",
+    "description": "Horror, 2006. The curse continues to spread beyond the house. Starring Amber Tamblyn."
+  },
+  {
+    "title": "The Grudge",
+    "description": "Horror, 2020. A reboot about a vengeful curse that haunts all it touches. Starring Andrea Riseborough."
+  },
+  {
+    "title": "Hostel",
+    "description": "Horror/Thriller, 2005. Backpackers in Europe are lured into a torture operation. Starring Jay Hernandez."
+  },
+  {
+    "title": "Hostel: Part II",
+    "description": "Horror/Thriller, 2007. Three women fall prey to the same deadly scheme. Starring Lauren German."
+  },
+  {
+    "title": "Saw",
+    "description": "Horror/Thriller, 2004. Victims are forced into deadly games by the Jigsaw killer. Starring Cary Elwes and Tobin Bell."
+  },
+  {
+    "title": "Saw II",
+    "description": "Horror/Thriller, 2005. A group of people are trapped in another sadistic game. Starring Donnie Wahlberg."
+  },
+  {
+    "title": "Saw III",
+    "description": "Horror/Thriller, 2006. Jigsaw tests his apprentice while his health declines. Starring Tobin Bell."
+  },
+  {
+    "title": "Saw IV",
+    "description": "Horror/Thriller, 2007. A new game unfolds as Jigsaw’s legacy continues. Starring Tobin Bell."
+  },
+  {
+    "title": "Saw V",
+    "description": "Horror/Thriller, 2008. A detective learns the truth behind Jigsaw’s accomplice. Starring Costas Mandylor."
+  },
+  {
+    "title": "Saw VI",
+    "description": "Horror/Thriller, 2009. Jigsaw’s traps target corrupt health insurance executives. Starring Tobin Bell."
+  },
+  {
+    "title": "Saw 3D",
+    "description": "Horror/Thriller, 2010. Survivors of Jigsaw’s games band together for revenge. Starring Tobin Bell and Costas Mandylor."
+  },
+  {
+    "title": "Jigsaw",
+    "description": "Horror/Thriller, 2017. A new series of deadly traps emerge, years after Jigsaw’s death. Starring Matt Passmore."
+  },
+  {
+    "title": "Spiral: From the Book of Saw",
+    "description": "Horror/Thriller, 2021. Detectives investigate murders reminiscent of Jigsaw’s legacy. Starring Chris Rock and Samuel L. Jackson."
+  },
+  {
+    "title": "Friday the 13th",
+    "description": "Horror, 1980. Camp counselors are hunted by a mysterious killer at Crystal Lake. Starring Betsy Palmer."
+  },
+  {
+    "title": "Friday the 13th Part 2",
+    "description": "Horror, 1981. Jason Voorhees emerges as the new killer at Crystal Lake. Starring Amy Steel."
+  },
+  {
+    "title": "Friday the 13th Part III",
+    "description": "Horror, 1982. Jason dons his iconic hockey mask for the first time. Starring Dana Kimmell."
+  },
+  {
+    "title": "Friday the 13th: The Final Chapter",
+    "description": "Horror, 1984. Jason’s rampage continues as survivors fight back. Starring Corey Feldman."
+  },
+  {
+    "title": "Friday the 13th: A New Beginning",
+    "description": "Horror, 1985. A new killer emerges imitating Jason. Starring John Shepherd."
+  },
+  {
+    "title": "Friday the 13th Part VI: Jason Lives",
+    "description": "Horror, 1986. Jason is resurrected and resumes his killing spree. Starring Thom Mathews."
+  },
+  {
+    "title": "Friday the 13th Part VII: The New Blood",
+    "description": "Horror, 1988. Jason battles a girl with telekinetic powers. Starring Lar Park Lincoln."
+  },
+  {
+    "title": "Friday the 13th Part VIII: Jason Takes Manhattan",
+    "description": "Horror, 1989. Jason terrorizes teens on a cruise to New York City. Starring Jensen Daggett."
+  },
+  {
+    "title": "Jason Goes to Hell: The Final Friday",
+    "description": "Horror, 1993. Jason’s spirit possesses others to continue his killings. Starring Kane Hodder."
+  },
+  {
+    "title": "Jason X",
+    "description": "Horror/Sci-Fi, 2001. Jason wreaks havoc aboard a spaceship in the future. Starring Kane Hodder."
+  },
+  {
+    "title": "Freddy vs. Jason",
+    "description": "Horror, 2003. Freddy Krueger and Jason Voorhees battle while tormenting teens. Starring Robert Englund and Ken Kirzinger."
+  },
+  {
+    "title": "Friday the 13th",
+    "description": "Horror, 2009. A reboot of the slasher classic with Jason at Crystal Lake. Starring Jared Padalecki."
+  },
+  {
+    "title": "A Nightmare on Elm Street",
+    "description": "Horror, 1984. Teens are stalked in their dreams by Freddy Krueger. Starring Robert Englund and Heather Langenkamp."
+  },
+  {
+    "title": "A Nightmare on Elm Street 2: Freddy’s Revenge",
+    "description": "Horror, 1985. Freddy attempts to possess a teenager to enter the real world. Starring Mark Patton."
+  },
+  {
+    "title": "A Nightmare on Elm Street 3: Dream Warriors",
+    "description": "Horror, 1987. Survivors band together in a psychiatric ward to fight Freddy. Starring Patricia Arquette."
+  },
+  {
+    "title": "A Nightmare on Elm Street 4: The Dream Master",
+    "description": "Horror, 1988. Freddy returns to haunt the dreams of new victims. Starring Lisa Wilcox."
+  },
+  {
+    "title": "A Nightmare on Elm Street 5: The Dream Child",
+    "description": "Horror, 1989. Freddy targets an unborn child to continue his killings. Starring Lisa Wilcox and Robert Englund."
+  },
+  {
+    "title": "Freddy’s Dead: The Final Nightmare",
+    "description": "Horror, 1991. Freddy terrorizes a group of troubled teens in his supposed final rampage. Starring Robert Englund."
+  },
+  {
+    "title": "Wes Craven’s New Nightmare",
+    "description": "Horror/Meta, 1994. Freddy haunts the real world, targeting the original film’s cast. Starring Heather Langenkamp."
+  },
+  {
+    "title": "A Nightmare on Elm Street",
+    "description": "Horror, 2010. A reboot of the slasher franchise. Starring Jackie Earle Haley and Rooney Mara."
+  },
+  {
+    "title": "Halloween",
+    "description": "Horror, 1978. Michael Myers escapes a mental hospital and returns to his hometown. Starring Jamie Lee Curtis and Donald Pleasence."
+  },
+  {
+    "title": "Halloween II",
+    "description": "Horror, 1981. Laurie Strode fights to survive as Michael continues his killing spree. Starring Jamie Lee Curtis."
+  },
+  {
+    "title": "Halloween III: Season of the Witch",
+    "description": "Horror, 1982. A sinister company creates deadly Halloween masks. Starring Tom Atkins."
+  },
+  {
+    "title": "Halloween 4: The Return of Michael Myers",
+    "description": "Horror, 1988. Michael awakens from a coma and hunts his niece. Starring Donald Pleasence."
+  },
+  {
+    "title": "Halloween 5: The Revenge of Michael Myers",
+    "description": "Horror, 1989. Michael continues his pursuit of his niece. Starring Danielle Harris."
+  },
+  {
+    "title": "Halloween: The Curse of Michael Myers",
+    "description": "Horror, 1995. A cult’s connection to Michael Myers is revealed. Starring Paul Rudd and Donald Pleasence."
+  },
+  {
+    "title": "Halloween H20: 20 Years Later",
+    "description": "Horror, 1998. Laurie Strode faces Michael again two decades later. Starring Jamie Lee Curtis."
+  },
+  {
+    "title": "Halloween: Resurrection",
+    "description": "Horror, 2002. A reality TV show in Michael’s childhood home goes wrong. Starring Busta Rhymes and Jamie Lee Curtis."
+  },
+  {
+    "title": "Halloween",
+    "description": "Horror, 2007. Rob Zombie’s reboot explores Michael’s origins. Starring Scout Taylor-Compton and Malcolm McDowell."
+  },
+  {
+    "title": "Halloween II",
+    "description": "Horror, 2009. A continuation of Rob Zombie’s vision of Michael Myers. Starring Scout Taylor-Compton."
+  },
+  {
+    "title": "Halloween",
+    "description": "Horror, 2018. Laurie Strode confronts Michael Myers 40 years after surviving his first attack. Starring Jamie Lee Curtis."
+  },
+  {
+    "title": "Halloween Kills",
+    "description": "Horror, 2021. Michael wreaks havoc as Haddonfield residents fight back. Starring Jamie Lee Curtis."
+  },
+  {
+    "title": "Halloween Ends",
+    "description": "Horror, 2022. Laurie faces Michael Myers for the final showdown. Starring Jamie Lee Curtis."
+  },
+  {
+    "title": "Scream",
+    "description": "Horror/Thriller, 1996. A masked killer stalks teens in a self-aware slasher. Starring Neve Campbell and Courteney Cox."
+  },
+  {
+    "title": "Scream 2",
+    "description": "Horror/Thriller, 1997. Sidney Prescott faces a new killer on her college campus. Starring Neve Campbell."
+  },
+  {
+    "title": "Scream 3",
+    "description": "Horror/Thriller, 2000. The killings continue on the set of a movie based on past murders. Starring Neve Campbell."
+  },
+  {
+    "title": "Scream 4",
+    "description": "Horror/Thriller, 2011. A new generation of victims is targeted in Woodsboro. Starring Neve Campbell and Emma Roberts."
+  },
+  {
+    "title": "Scream",
+    "description": "Horror/Thriller, 2022. Sidney, Gale, and Dewey return as Ghostface haunts Woodsboro again. Starring Neve Campbell and Melissa Barrera."
+  },
+  {
+    "title": "Scream VI",
+    "description": "Horror/Thriller, 2023. Survivors face Ghostface in New York City. Starring Melissa Barrera and Jenna Ortega."
+  },
+  {
+    "title": "I Know What You Did Last Summer",
+    "description": "Horror/Thriller, 1997. Teens are stalked after covering up a hit-and-run. Starring Jennifer Love Hewitt and Sarah Michelle Gellar."
+  },
+  {
+    "title": "I Still Know What You Did Last Summer",
+    "description": "Horror/Thriller, 1998. The survivors face the fisherman killer again. Starring Jennifer Love Hewitt."
+  },
+  {
+    "title": "I’ll Always Know What You Did Last Summer",
+    "description": "Horror/Thriller, 2006. A new group of teens is haunted by the same legend. Starring Brooke Nevin."
+  },
+  {
+    "title": "Final Destination",
+    "description": "Horror/Thriller, 2000. Teens cheat death but are hunted by fate. Starring Devon Sawa and Ali Larter."
+  },
+  {
+    "title": "Final Destination 2",
+    "description": "Horror/Thriller, 2003. Survivors of a highway crash realize death still stalks them. Starring A.J. Cook."
+  },
+  {
+    "title": "Final Destination 3",
+    "description": "Horror/Thriller, 2006. A vision of a roller coaster accident saves lives, but death follows. Starring Mary Elizabeth Winstead."
+  },
+  {
+    "title": "The Final Destination",
+    "description": "Horror/Thriller, 2009. A racetrack disaster sets fate back in motion. Starring Bobby Campo."
+  },
+  {
+    "title": "Final Destination 5",
+    "description": "Horror/Thriller, 2011. A bridge collapse sparks another deadly chain of fate. Starring Nicholas D’Agosto."
+  },
+  {
+    "title": "The Texas Chain Saw Massacre",
+    "description": "Horror, 1974. Friends encounter a family of cannibals in rural Texas. Starring Marilyn Burns."
+  },
+  {
+    "title": "The Texas Chainsaw Massacre 2",
+    "description": "Horror, 1986. A radio host becomes entangled with Leatherface and his family. Starring Dennis Hopper."
+  },
+  {
+    "title": "Leatherface: The Texas Chainsaw Massacre III",
+    "description": "Horror, 1990. A young couple is hunted by the cannibal family. Starring Kate Hodge."
+  },
+  {
+    "title": "Texas Chainsaw Massacre: The Next Generation",
+    "description": "Horror, 1995. A group of teens encounters Leatherface and a bizarre conspiracy. Starring Renée Zellweger and Matthew McConaughey."
+  },
+  {
+    "title": "The Texas Chainsaw Massacre",
+    "description": "Horror, 2003. A reboot about teens terrorized by Leatherface. Starring Jessica Biel."
+  },
+  {
+    "title": "The Texas Chainsaw Massacre: The Beginning",
+    "description": "Horror, 2006. A prequel to the 2003 reboot exploring Leatherface’s origins. Starring Jordana Brewster."
+  },
+  {
+    "title": "Texas Chainsaw 3D",
+    "description": "Horror, 2013. A young woman inherits a house tied to Leatherface’s legacy. Starring Alexandra Daddario."
+  },
+  {
+    "title": "Leatherface",
+    "description": "Horror, 2017. A prequel exploring the childhood of the infamous killer. Starring Stephen Dorff."
+  },
+  {
+    "title": "Texas Chainsaw Massacre",
+    "description": "Horror, 2022. A direct sequel to the original film with a returning Leatherface. Starring Sarah Yarkin."
+  },
+  {
+    "title": "Hellraiser",
+    "description": "Horror, 1987. A puzzle box unleashes demons known as Cenobites. Starring Doug Bradley and Clare Higgins."
+  },
+  {
+    "title": "Hellbound: Hellraiser II",
+    "description": "Horror, 1988. Survivors face the horrors of the Cenobite realm. Starring Clare Higgins."
+  },
+  {
+    "title": "Hellraiser III: Hell on Earth",
+    "description": "Horror, 1992. Pinhead escapes into the human world through a nightclub. Starring Doug Bradley."
+  },
+  {
+    "title": "Hellraiser: Bloodline",
+    "description": "Horror, 1996. The history of the puzzle box spans centuries. Starring Bruce Ramsay and Doug Bradley."
+  },
+  {
+    "title": "Hellraiser: Inferno",
+    "description": "Horror, 2000. A detective discovers the puzzle box while investigating murders. Starring Craig Sheffer."
+  },
+  {
+    "title": "Hellraiser: Hellseeker",
+    "description": "Horror, 2002. A man investigates his wife’s mysterious death, leading him back to the puzzle box. Starring Dean Winters and Ashley Laurence."
+  },
+  {
+    "title": "Hellraiser: Deader",
+    "description": "Horror, 2005. A journalist uncovers a cult obsessed with bringing the dead back to life. Starring Kari Wuhrer."
+  },
+  {
+    "title": "Hellraiser: Hellworld",
+    "description": "Horror, 2005. Gamers are drawn into a deadly real-world Hellraiser game. Starring Lance Henriksen."
+  },
+  {
+    "title": "Hellraiser: Revelations",
+    "description": "Horror, 2011. Two friends discover the puzzle box while traveling in Mexico. Starring Steven Brand."
+  },
+  {
+    "title": "Hellraiser: Judgment",
+    "description": "Horror, 2018. Detectives stumble upon hellish forces while investigating serial murders. Starring Damon Carney and Randy Wayne."
+  },
+  {
+    "title": "Hellraiser",
+    "description": "Horror, 2022. A reimagining of the franchise with a new Pinhead. Starring Jamie Clayton."
+  },
+  {
+    "title": "Child’s Play",
+    "description": "Horror, 1988. A killer’s soul inhabits a doll named Chucky. Starring Catherine Hicks and Brad Dourif."
+  },
+  {
+    "title": "Child’s Play 2",
+    "description": "Horror, 1990. Chucky returns to terrorize Andy Barclay. Starring Alex Vincent and Brad Dourif."
+  },
+  {
+    "title": "Child’s Play 3",
+    "description": "Horror, 1991. Chucky follows Andy to military school. Starring Justin Whalin and Brad Dourif."
+  },
+  {
+    "title": "Bride of Chucky",
+    "description": "Horror/Comedy, 1998. Chucky and his new bride go on a murderous road trip. Starring Jennifer Tilly and Brad Dourif."
+  },
+  {
+    "title": "Seed of Chucky",
+    "description": "Horror/Comedy, 2004. Chucky and Tiffany’s child struggles with identity. Starring Jennifer Tilly."
+  },
+  {
+    "title": "Curse of Chucky",
+    "description": "Horror, 2013. Chucky infiltrates a family’s home to continue his killing spree. Starring Fiona Dourif."
+  },
+  {
+    "title": "Cult of Chucky",
+    "description": "Horror, 2017. Chucky returns with multiple possessed dolls. Starring Fiona Dourif and Jennifer Tilly."
+  },
+  {
+    "title": "Child’s Play",
+    "description": "Horror, 2019. A reboot with a modern AI doll gone rogue. Starring Aubrey Plaza and Mark Hamill (voice)."
+  },
+  {
+    "title": "Gremlins",
+    "description": "Comedy/Horror, 1984. Cute creatures turn into mischievous monsters when rules are broken. Starring Zach Galligan and Phoebe Cates."
+  },
+  {
+    "title": "Gremlins 2: The New Batch",
+    "description": "Comedy/Horror, 1990. The gremlins wreak havoc in a high-rise building. Starring Zach Galligan."
+  },
+  {
+    "title": "Beetlejuice",
+    "description": "Comedy/Fantasy, 1988. A ghostly couple hires a mischievous spirit to scare away new homeowners. Starring Michael Keaton and Winona Ryder."
+  },
+  {
+    "title": "Edward Scissorhands",
+    "description": "Fantasy/Romance, 1990. An artificial man with scissors for hands struggles with love and acceptance. Starring Johnny Depp and Winona Ryder."
+  },
+  {
+    "title": "Sleepy Hollow",
+    "description": "Horror/Fantasy, 1999. A detective investigates murders by the Headless Horseman. Starring Johnny Depp and Christina Ricci."
+  },
+  {
+    "title": "Corpse Bride",
+    "description": "Animation/Fantasy, 2005. A groom accidentally proposes to a dead bride in the underworld. Voices of Johnny Depp and Helena Bonham Carter."
+  },
+  {
+    "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+    "description": "Musical/Horror, 2007. A barber seeks revenge in Victorian London. Starring Johnny Depp and Helena Bonham Carter."
+  },
+  {
+    "title": "Dark Shadows",
+    "description": "Comedy/Fantasy, 2012. A vampire awakens in the 1970s and struggles with modern life. Starring Johnny Depp."
+  },
+  {
+    "title": "Coraline",
+    "description": "Animation/Fantasy, 2009. A girl discovers a parallel world with sinister secrets. Voices of Dakota Fanning and Teri Hatcher."
+  },
+  {
+    "title": "Kubo and the Two Strings",
+    "description": "Animation/Fantasy, 2016. A boy with a magical instrument embarks on a heroic quest. Voices of Art Parkinson and Charlize Theron."
+  },
+  {
+    "title": "ParaNorman",
+    "description": "Animation/Comedy, 2012. A boy who can see ghosts must save his town from a curse. Voices of Kodi Smit-McPhee and Anna Kendrick."
+  },
+  {
+    "title": "The Boxtrolls",
+    "description": "Animation/Fantasy, 2014. A boy raised by underground creatures protects his adoptive family. Voices of Isaac Hempstead Wright and Ben Kingsley."
+  },
+  {
+    "title": "Monster House",
+    "description": "Animation/Horror, 2006. Kids discover their neighbor’s house is alive. Voices of Mitchel Musso and Steve Buscemi."
+  },
+  {
+    "title": "Goosebumps",
+    "description": "Comedy/Adventure, 2015. Monsters from R.L. Stine’s books come to life. Starring Jack Black."
+  },
+  {
+    "title": "Goosebumps 2: Haunted Halloween",
+    "description": "Comedy/Adventure, 2018. A cursed book unleashes monsters during Halloween. Starring Madison Iseman."
+  },
+  {
+    "title": "Casper",
+    "description": "Fantasy/Family, 1995. A friendly ghost befriends a girl while battling greedy humans. Starring Christina Ricci and Bill Pullman."
+  },
+  {
+    "title": "Hocus Pocus",
+    "description": "Comedy/Fantasy, 1993. Three witches are resurrected in modern-day Salem. Starring Bette Midler, Sarah Jessica Parker, and Kathy Najimy."
+  },
+  {
+    "title": "Hocus Pocus 2",
+    "description": "Comedy/Fantasy, 2022. The Sanderson sisters return when summoned by teenagers. Starring Bette Midler and Sarah Jessica Parker."
+  },
+  {
+    "title": "The Addams Family",
+    "description": "Comedy/Fantasy, 1991. The creepy Addams family faces a con artist impersonating Uncle Fester. Starring Anjelica Huston and Raul Julia."
+  },
+  {
+    "title": "Addams Family Values",
+    "description": "Comedy/Fantasy, 1993. The Addams family battles a murderous nanny. Starring Anjelica Huston and Raul Julia."
+  },
+  {
+    "title": "The Addams Family",
+    "description": "Animation/Comedy, 2019. An animated retelling of the spooky family. Voices of Oscar Isaac and Charlize Theron."
+  },
+  {
+    "title": "The Addams Family 2",
+    "description": "Animation/Comedy, 2021. The Addams family embarks on a bizarre road trip. Voices of Oscar Isaac and Charlize Theron."
+  },
+  {
+    "title": "Coraline",
+    "description": "Animation/Fantasy, 2009. A girl discovers an alternate world that hides dark secrets. Voices of Dakota Fanning and Teri Hatcher."
+  },
+  {
+    "title": "Matilda",
+    "description": "Family/Fantasy, 1996. A gifted girl with telekinetic powers struggles against cruel adults. Starring Mara Wilson and Danny DeVito."
+  },
+  {
+    "title": "Matilda the Musical",
+    "description": "Musical/Family, 2022. A retelling of Roald Dahl’s classic story with music and dance. Starring Alisha Weir and Emma Thompson."
+  },
+  {
+    "title": "Charlie and the Chocolate Factory",
+    "description": "Fantasy/Family, 2005. A boy wins a golden ticket to visit Willy Wonka’s chocolate factory. Starring Johnny Depp and Freddie Highmore."
+  },
+  {
+    "title": "Willy Wonka & the Chocolate Factory",
+    "description": "Fantasy/Musical, 1971. A boy visits a magical chocolate factory with eccentric Willy Wonka. Starring Gene Wilder."
+  },
+  {
+    "title": "Wonka",
+    "description": "Fantasy/Musical, 2023. A prequel exploring Willy Wonka’s journey to becoming a chocolatier. Starring Timothée Chalamet."
+  },
+  {
+    "title": "The NeverEnding Story",
+    "description": "Fantasy/Adventure, 1984. A boy discovers a magical book that draws him into a fantastical world. Starring Barret Oliver and Noah Hathaway."
+  },
+  {
+    "title": "The NeverEnding Story II: The Next Chapter",
+    "description": "Fantasy/Adventure, 1990. Bastian returns to the magical world of Fantasia. Starring Jonathan Brandis."
+  },
+  {
+    "title": "The NeverEnding Story III",
+    "description": "Fantasy/Adventure, 1994. Bastian and his friends fight to save Fantasia once more. Starring Jason James Richter."
+  },
+  {
+    "title": "Labyrinth",
+    "description": "Fantasy/Adventure, 1986. A girl journeys through a magical maze to rescue her baby brother. Starring Jennifer Connelly and David Bowie."
+  },
+  {
+    "title": "The Dark Crystal",
+    "description": "Fantasy/Adventure, 1982. Two Gelflings embark on a quest to restore balance to their world. Directed by Jim Henson and Frank Oz."
+  },
+  {
+    "title": "The Dark Crystal: Age of Resistance",
+    "description": "Fantasy/Adventure, 2019. A prequel series exploring the origins of the Gelflings’ struggle. Voices of Taron Egerton and Anya Taylor-Joy."
+  },
+  {
+    "title": "Legend",
+    "description": "Fantasy/Adventure, 1985. A young hero battles the Lord of Darkness to save his true love. Starring Tom Cruise and Mia Sara."
+  },
+  {
+    "title": "Willow",
+    "description": "Fantasy/Adventure, 1988. A farmer helps protect a baby destined to defeat an evil queen. Starring Warwick Davis and Val Kilmer."
+  }
+]
